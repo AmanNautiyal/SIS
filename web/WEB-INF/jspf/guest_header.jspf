@@ -1,0 +1,5 @@
+<%@ page pageEncoding="UTF-8" %>
+<div id="header">
+    <h1>Student Information System</h1>
+    <h2>(Unisoft Technologies)</h2>
+</div>
